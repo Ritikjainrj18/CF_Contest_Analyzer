@@ -6,7 +6,7 @@ With the help of CF Contest Analyzer, you can analyze your performance in CF con
 
 It provides Time Analysis of each problem level, using which you can get an idea of your current problem solving speed & you can make plan for improvements. Besides, it also provides General Analysis which is kind of summary of your contest history in that particular time window.
 
-#### [CF-Visualizer](https://cfviz.netlify.app/) already provides lot of analysis, then what is need of this?
+#### [CF-Visualizer] already provides lot of analysis, then what is need of this?
 
 * CF Visualizer takes into consideration all of your submissions, which includes Contest submissions, Practice submissions & OUT-OF-COMPETITION submissions. What if someone wants analysis of his performance just only in a REAL contest? Well, CF Contest Analyzer provides that :) It focusses only on your contest performance through your contest submissions,which indicates your current CP level.
 
